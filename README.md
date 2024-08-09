@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.instagram.com/@_anas__86](https://www.instagram.com/@_anas__86)
 
-- 💬 Ask me about **raect, express, node, mongoDb**
+- 💬 Ask me about **react, express, node, mongoDb**
 
 - 📫 How to reach me **coadanas@gmail.com**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/anas_86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anas_86" height="30" width="40" /></a>
 <a href="https://instagram.com/_anas__86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anas__86" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ag4444yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ag4444yt" height="30" width="40" /></a>
 </p>
