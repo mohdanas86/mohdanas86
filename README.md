@@ -2,7 +2,8 @@
 
 I'm a **Full Stack Developer** based in Chennai, India, passionate about crafting scalable web applications and AI-integrated tools that solve real-world problems. With hands-on experience in the **MERN stack**, serverless architectures, and cloud deployments, I specialize in building elegant frontends, fast APIs, and reliable full-stack systems.
 
-• [Resume](https://drive.google.com/file/d/1GAh8fC6mPHNN1vK-ZppGRFHAIwr5YxaZ/view?usp=sharing) • [LinkedIn](https://www.linkedin.com/in/anas86) • [GitHub](https://github.com/mohdanas86) • [Portfolio](https://anasalamportfolio.netlify.app)
+• [Resume](https://drive.google.com/file/d/1bEw2SNfADx08krviTy0VMv30y_eytSnN/view?usp=sharing) • [LinkedIn](https://www.linkedin.com/in/anas86) • [GitHub](https://github.com/mohdanas86) • [Portfolio](https://anasalamportfolio.netlify.app)
+
 
 ---
 
@@ -56,7 +57,7 @@ React.js · Next.js · Tailwind CSS · HTML5 · CSS3 · DaisyUI
 Node.js · Express.js · MongoDB · REST APIs · Netlify Lambda · Convex
 
 **AI / ML Tools**  
-LangChain · Gemini API · sentence-transformers · Pandas · NumPy · Matplotlib
+LangChain · Gemini API · sentence-transformers · Pandas · NumPy · Matplotlib · Scikit-Learn
 
 **Platforms / Tools**  
 Netlify · Render · Vercel · Git · GitHub · Postman · Clerk
