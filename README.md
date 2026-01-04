@@ -81,7 +81,7 @@ JavaScript (ES6+) · Python · Java · C++
 **BCA in Computer Applications**  
 *Minor in Data Science*  
 SRM Institute of Science & Technology, Chennai  
-**CGPA:** 9.25 / 10 (Ongoing)
+**CGPA:** 9.35 / 10 (Ongoing)
 
 ---
 
