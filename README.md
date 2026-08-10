@@ -1,98 +1,101 @@
-# Hi, I'm Anas Alam
+# Hi, I'm Anas Alam 👋
 
-I'm a **Full Stack Developer** based in Chennai, India, passionate about crafting scalable web applications and AI-integrated tools that solve real-world problems. With hands-on experience in the **MERN stack**, serverless architectures, and cloud deployments, I specialize in building elegant frontends, fast APIs, and reliable full-stack systems.
+I'm a **Full Stack Developer & AI/ML Enthusiast** based in Chennai, India, currently pursuing a **BCA in Data Science at SRM Institute of Science and Technology** with a **9.35/10 CGPA**.
 
-• [Resume](https://drive.google.com/file/d/1bEw2SNfADx08krviTy0VMv30y_eytSnN/view?usp=sharing) • [LinkedIn](https://www.linkedin.com/in/anas86) • [GitHub](https://github.com/mohdanas86) • [Portfolio](https://anasalamportfolio.netlify.app)
+I build **scalable web applications, AI-powered products, and backend systems** using modern full-stack, cloud, and machine learning technologies.
 
-
----
-
-## What I’m Building
-
-- AI-powered productivity tools using **LangChain**, **Gemini API**, and **Next.js**
-- Smart finance dashboards with **real-time analytics and categorization**
-- Scalable backend systems using **Express**, **MongoDB**, and **Convex**
-- Optimized workflows with **Clerk Auth**, **Netlify Functions**, and **serverless deployment**
+[Resume](https://drive.google.com/file/d/1bEw2SNfADx08krviTy0VMv30y_eytSnN/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/mohdanas86) · [GitHub](https://github.com/mohdanas86) · [Portfolio](https://anasalamportfolio.netlify.app)
 
 ---
 
-## Featured Projects
+## 🚀 What I Do
 
-### [Fynnsera](https://fynsera.netlify.app/)
-> AI-driven finance assistant for budgeting and transaction tracking  
-Built using: **LangChain**, **Gemini API**, **Razorpay**, **MongoDB**, **React**
-
-- Created a dynamic dashboard with real-time budget analytics
-- Built an accurate transaction classifier with over 99% accuracy
-- Integrated Razorpay for secure subscriptions and financial workflows
+* Build **full-stack applications & SaaS platforms**
+* Develop **AI/ML-powered applications**
+* Design **REST APIs and backend systems**
+* Work with **cloud-native applications and data-driven systems**
 
 ---
 
-### [AI Notes Taker](https://ainotestaker.netlify.app/)
-> Smart document summarizer for students and professionals  
-Built using: **LangChain**, **Gemini API**, **Convex**, **Tiptap**, **Next.js**
+## 🔥 Featured Projects
 
-- Summarizes long PDFs and voice notes into structured, exportable summaries
-- Uses **Clerk** for secure auth and supports **PDF/Clipboard export**
-- Automates the note-making process, saving users 50% of time
+### 🌾 [AgriLenses](https://agrilenses.netlify.app/)
 
----
+**AI Agricultural Advisory Platform**
 
-### [Anaspice](https://anaspice.netlify.app/)
-> End-to-end food ordering web app  
-Built using: **React**, **Tailwind CSS**, **MongoDB**, **JWT**, **Express**, **Netlify Functions**
+`Python` · `Next.js` · `Node.js` · `MongoDB` · `TensorFlow` · `Scikit-learn` · `GCP`
 
-- Live cart, authentication, order placement & serverless backend
-- Uses Netlify Functions + MongoDB for seamless serverless deployment
-- Fully responsive with optimized performance for mobile and desktop
+* Multi-modal AI platform for **pest detection, crop price forecasting, and agricultural assistance**
+* CNN pest detection model achieving **93% mAP**
+* Supports **50+ crop categories** and offline IVR/SMS access
+* Deployed on GCP with **99.5% uptime**
 
----
+### 🎓 [AnaCGPA](https://anacgpa.netlify.app/)
 
-## Tech Stack
+**Production-Scale Academic Platform**
 
-**Frontend**  
-React.js · Next.js · Tailwind CSS · HTML5 · CSS3 · DaisyUI
+`Next.js` · `TypeScript` · `MongoDB` · `Prisma` · `Gemini AI` · `GCP`
 
-**Backend**  
-Node.js · Express.js · MongoDB · REST APIs · Netlify Lambda · Convex
+* Used by visitors across **221 countries and territories**
+* **1.57K Google Search clicks** and **598K impressions**
+* Integrated Gemini AI for intelligent GPA predictions
+* Reduced database load by **55%** through caching
 
-**AI / ML Tools**  
-LangChain · Gemini API · sentence-transformers · Pandas · NumPy · Matplotlib · Scikit-Learn
+### 💻 [Student Management System](https://github.com/mohdanas86/StudentRestApis)
 
-**Platforms / Tools**  
-Netlify · Render · Vercel · Git · GitHub · Postman · Clerk
+**Microservices Backend**
 
-**Languages**  
-JavaScript (ES6+) · Python · Java · C++
+`Java` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL`
+
+* Production-grade REST backend with **JWT authentication and role-based access control**
+* Implemented pagination, filtering, optimized indexing, and audit logging
+* Reduced API payload size by **70%**
 
 ---
 
-## Achievements
+## 🛠️ Tech Stack
 
-- **Intern @ ChartsMaze** – Built a dynamic trading journal UI with charting tools
-- **Intern @ CodexInter** – Refactored major components for 30% performance gains
-- **Contributor @ GSSOC 2024** – Earned badges in GitHub, Postman, and API challenges
-- **Council Member @ SRM Innovation Council** – Mentored teams and led tech initiatives
+**Languages:** Java · Python · JavaScript/TypeScript · SQL
 
----
+**Frontend:** React · Next.js · Tailwind CSS
 
-## Education
+**Backend:** Node.js · Express.js · Spring Boot · REST APIs
 
-**BCA in Computer Applications**  
-*Minor in Data Science*  
-SRM Institute of Science & Technology, Chennai  
-**CGPA:** 9.35 / 10 (Ongoing)
+**Databases:** MongoDB · MySQL · PostgreSQL · Prisma · Redis
+
+**AI/ML:** Gemini API · OpenAI API · Hugging Face · TensorFlow · Scikit-learn · Pandas · NumPy
+
+**Cloud & Tools:** GCP · Cloud Run · Cloud Storage · Git · GitHub · Postman
 
 ---
 
-## Let's Connect
+## 💼 Experience
 
-- Email: [coadanas@gmail.com](mailto:coadanas@gmail.com)
-- LinkedIn: [linkedin.com/in/anas86](https://www.linkedin.com/in/anas86)
-- GitHub: [github.com/mohdanas86](https://github.com/mohdanas86)
-- Portfolio: [anasalamportfolio.netlify.app](https://anasalamportfolio.netlify.app)
+**AI Software Engineering Intern — Ulavi Technologies**
+
+* Technical lead for a 4-person team building a full-stack SaaS platform
+* Built Node.js APIs handling **10K+ monthly requests**
+* Improved delivery cycle time by **30%**
+
+**Data Analytics Intern — Cognifyz Technologies**
+
+* Analyzed **500K+ records** using Python and ML tools
+* Built automated dashboards and ML classification models
+
+**Frontend Engineering Intern — ChartsMaze**
+
+* Built React data visualization components
+* Improved dashboard performance by **35%**
 
 ---
 
-> *“Code is not just instructions for machines — it's a tool to shape experiences.”*
+## 🏆 Leadership
 
+**Tech Lead — E-Cell, SRMIST**
+
+**Founder & Community Lead — NextGen Crews**
+Built a **120+ member student developer community**
+
+**Google Student Ambassador — SRMIST**
+Conducted technical workshops for **200+ students**
+---
